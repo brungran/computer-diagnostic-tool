@@ -1,0 +1,41 @@
+CPU
+    Uso global
+    Specs + Arquitetura - Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz x86_x64
+    
+    Uso por core(%)?
+    Quantidade física de cores?
+    Nome (core)?
+    Marca/Vendor? Para detectar peças "piratas", talvez? Retornou GenuineIntel para mim.
+    Frequência (MHz)?
+
+Disco
+    Nome
+    Letra/Mountpoint
+    Tipo
+    Espaço total
+    Espaço livre
+
+    Uso (número de bytes lidos e escritos)?
+
+RAM
+    Memória total
+    Memória livre
+    memória usada?
+    Swap total?
+    Swap usado?
+    Swap livre?
+
+Outros
+    hostname
+    S.O.
+
+    Endereço MAC?
+    Data e hora do boot?
+    Tempo ligado?
+    Lista de processos?
+    Processos por nome ou nome exato - comparar com uma lista de processos maliciosos conhecidos.
+    load average? - Returns the system load average value, 1, 5, 10 min. - NÃO FUNCIONANDO NO WINDOWS ATUALMENTE
+
+
+Talvez no futuro:
+    User
